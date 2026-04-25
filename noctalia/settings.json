@@ -19,7 +19,7 @@
         "overviewLayer": false,
         "pinnedApps": [
         ],
-        "position": "center",
+        "position": "top_left",
         "screenshotAnnotationTool": "",
         "showCategories": true,
         "showIconBackground": false,
@@ -388,7 +388,7 @@
         "animationDisabled": false,
         "animationSpeed": 1,
         "autoStartAuth": false,
-        "avatarImage": "/home/daniil/.face",
+        "avatarImage": "",
         "boxRadiusRatio": 1,
         "clockFormat": "hh\\nmm",
         "clockStyle": "custom",
@@ -657,14 +657,6 @@
         "activeTemplates": [
             {
                 "enabled": true,
-                "id": "discord"
-            },
-            {
-                "enabled": true,
-                "id": "fuzzel"
-            },
-            {
-                "enabled": true,
                 "id": "qt"
             },
             {
@@ -685,15 +677,11 @@
             },
             {
                 "enabled": true,
-                "id": "alacritty"
-            },
-            {
-                "enabled": true,
-                "id": "starship"
-            },
-            {
-                "enabled": true,
                 "id": "kitty"
+            },
+            {
+                "enabled": true,
+                "id": "btop"
             }
         ],
         "enableUserTheming": false
@@ -714,7 +702,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/daniil/wallpapers/wallpapers",
+        "directory": "~/wallpapers/wallpapers",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
@@ -748,7 +736,7 @@
         "wallhavenCategories": "111",
         "wallhavenOrder": "desc",
         "wallhavenPurity": "100",
-        "wallhavenQuery": "",
+        "wallhavenQuery": "gruvbox",
         "wallhavenRatios": "",
         "wallhavenResolutionHeight": "",
         "wallhavenResolutionMode": "atleast",
