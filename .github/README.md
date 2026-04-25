@@ -22,5 +22,5 @@ git clone https://github.com/L1aRd/niri-dotfiles.git
 cd niri-dotfiles
 ```
 ```
-rsync -av --exclude='.git' --exclude='.git' --exclude='README.md' ~/niri-dotfiles/ ~/.config/
+rsync -av --exclude='.git' --exclude='.github' --exclude='README.md' ~/niri-dotfiles/ ~/.config/
 ```
