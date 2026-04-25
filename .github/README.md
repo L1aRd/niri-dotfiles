@@ -1,7 +1,7 @@
 # niri-dotfiles
 **My niri + noctalia shell configuration**
 
-![Screenshot](https://github.com/L1aRd/niri-dotfiles/blob/assets/Screenshot.png)
+![Screenshot](https://github.com/L1aRd/niri-dotfiles/blob/main/.github/assets/Screenshot.png)
 
 ## Dependencies
 
