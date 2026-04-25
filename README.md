@@ -22,5 +22,5 @@ git clone https://github.com/L1aRd/niri-dotfiles.git
 cd niri-dotfiles
 ```
 ```
-cp -rpi fish kitty niri noctalia nvim ~/.config/
+rsync -av --exclude='.git' --exclude='README.md' ~/niri-dotfiles/ ~/.config/
 ```
