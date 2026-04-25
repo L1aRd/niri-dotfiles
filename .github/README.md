@@ -13,7 +13,7 @@
 - neovim
 - Bibata-Modern-Ice
 - Also you can download my wallpaper pack
-    -```git clone https://github.com/L1aRd/wallpapers.git```
+    - ```git clone https://github.com/L1aRd/wallpapers.git```
 
 ## Installation
 
