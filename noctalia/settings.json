@@ -18,6 +18,14 @@
         "ignoreMouseInput": false,
         "overviewLayer": false,
         "pinnedApps": [
+            "steam",
+            "discord",
+            "firefox",
+            "Happ",
+            "obsidian",
+            "code-oss",
+            "org.telegram.desktop",
+            "vesktop"
         ],
         "position": "top_left",
         "screenshotAnnotationTool": "",
@@ -180,7 +188,9 @@
                     "hidePassive": false,
                     "id": "Tray",
                     "pinned": [
-                        "Happ"
+                        "Happ",
+                        "steam",
+                        "Vesktop"
                     ]
                 },
                 {
@@ -682,9 +692,25 @@
             {
                 "enabled": true,
                 "id": "btop"
+            },
+            {
+                "enabled": true,
+                "id": "steam"
+            },
+            {
+                "enabled": true,
+                "id": "discord"
+            },
+            {
+                "enabled": true,
+                "id": "code"
+            },
+            {
+                "enabled": true,
+                "id": "cava"
             }
         ],
-        "enableUserTheming": false
+        "enableUserTheming": true
     },
     "ui": {
         "boxBorderEnabled": false,

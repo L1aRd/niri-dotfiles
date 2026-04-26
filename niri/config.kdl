@@ -129,6 +129,7 @@ window-rule {
 binds {
     Mod+Shift+Slash { show-hotkey-overlay; }
     Mod+Q hotkey-overlay-title="Open a Terminal: kitty" { spawn "kitty"; }
+    Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
     Mod+E { spawn "nautilus"; }
     Mod+W { spawn "firefox"; }
     Mod+D { spawn-sh "qs -c noctalia-shell ipc call launcher toggle"; }
