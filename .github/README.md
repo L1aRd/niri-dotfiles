@@ -12,6 +12,7 @@
 - nautilus
 - neovim
 - Bibata-Modern-Ice
+- JetBrains Mono Nerd
 - Also you can download my wallpaper pack
     - ```git clone https://github.com/L1aRd/wallpapers.git```
 
