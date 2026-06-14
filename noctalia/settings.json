@@ -190,7 +190,8 @@
                     "pinned": [
                         "Happ",
                         "steam",
-                        "Vesktop"
+                        "Vesktop",
+                        "Telegram Desktop"
                     ]
                 },
                 {
@@ -398,7 +399,7 @@
         "animationDisabled": false,
         "animationSpeed": 1,
         "autoStartAuth": false,
-        "avatarImage": "",
+        "avatarImage": "~/.face",
         "boxRadiusRatio": 1,
         "clockFormat": "hh\\nmm",
         "clockStyle": "custom",
@@ -683,10 +684,6 @@
             },
             {
                 "enabled": true,
-                "id": "telegram"
-            },
-            {
-                "enabled": true,
                 "id": "kitty"
             },
             {
@@ -708,6 +705,10 @@
             {
                 "enabled": true,
                 "id": "cava"
+            },
+            {
+                "enabled": true,
+                "id": "telegram"
             }
         ],
         "enableUserTheming": true
