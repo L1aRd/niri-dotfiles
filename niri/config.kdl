@@ -43,12 +43,12 @@ input {
     focus-follows-mouse max-scroll-amount="0%"
 }
 
-output "DP-1" {
-    mode "1920x1080@165.003"
-    scale 1
-    transform "normal"
-    position x=0 y=0
-}
+//output "DP-1" {
+//    mode "1920x1080@165.003"
+//    scale 1
+//    transform "normal"
+//    position x=0 y=0
+//}
 
 layout {
     gaps 5
